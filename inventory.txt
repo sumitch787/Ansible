@@ -1,0 +1,2 @@
+appserver ansible_host=192.168.0.103 ansible_connetion=ssh ansible_user=root ansible_ssh_pass=123
+
